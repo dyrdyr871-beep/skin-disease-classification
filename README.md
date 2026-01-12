@@ -80,7 +80,7 @@ The dataset is stored in Google Drive and loaded into Google Colab for training 
 The CNN model was trained successfully and achieved classification results for four skin disease types.  
 The training and validation accuracy graph is shown below.
 
-![Accuracy Graph](accuracy_plot.png)
+![Accuracy Graph](accuracy_plot.jpeg)
 
 The model can predict the disease class of a new unseen skin image.
 
